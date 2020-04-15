@@ -1,0 +1,253 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",1-2-3.tv
+http://123tv.cdn.ses-ps.com/stream070101/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="HU" tvg-url="" group-title="",1Music Channel Hungary
+http://1music.hu/1music.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="YE" tvg-url="" group-title="",7 Stars
+rtmp://82.212.74.3/live/7406
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",a.tv
+https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.de" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="http://195.154.221.171/epg/guidegermany.xml.gz" group-title="",ANIMAL PLANET DE
+http://stream-7b694ce7e.nmbs.top/m3u/Germany/c40a8890e6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",ANIXE HD
+https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",ARD
+https://derste247livede.akamaized.net/hls/live/658317/daserste_de/profile1/1.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="http://195.154.221.171/epg/guidegermany.xml.gz" group-title="",ARD 1
+http://stream-7b694ce7e.nmbs.top/m3u/Germany/2cbd8fc7fb.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="INT" tvg-url="" group-title="Music",B MUSIC CONCERT
+https://livetvhooq.akamaized.net:443/f17ef07681bb44069d2e2f376e92e9c0/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599812~exp=9007200828340803~acl=/f17ef07681bb44069d2e2f376e92e9c0/*/profile_0/chunklist.m3u8*~hmac=10bc23dba3cb21b86ba9ef7ea7eaa63d0e977673c431f0921878deda7b6ad638
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="INT" tvg-url="" group-title="Music",B MUSIC SESSION
+https://livetvhooq.akamaized.net:443/94d7194614e148059bca126206f13321/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599727~exp=9007200828340718~acl=/94d7194614e148059bca126206f13321/*/profile_0/chunklist.m3u8*~hmac=4e62bad0407e078c42fceb6a3757dc833dd2d0c3b7394304a1c078d093cd2097
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",Baden TV
+http://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DZ" tvg-url="" group-title="",Bahia TV
+http://80.241.212.158:25461/uss/axGFSC4zhv/18
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="RS" tvg-url="" group-title="XXX",Bizarre
+http://84.22.33.254/unicast.bizarre/index.m3u8?streamType=live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",BR Event 1
+http://brevent1hds-lh.akamaihd.net/i/br_event01isma@86390/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",BR Event 4
+http://brevent1hds-lh.akamaihd.net/i/br_event04isma@111250/index_1_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",BR Fernsehen Nord HD
+https://brlive-lh.akamaihd.net/i/bfsnord_germany@119898/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",BR Fernsehen Süd HD
+https://brlive-lh.akamaihd.net/i/bfssued_germany@119890/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="CA" tvg-url="" group-title="News",CBC News Network
+https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",Chemnitz Fernsehen
+https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/39/Clubbing_TV.png" tvg-country="FR" tvg-url="" group-title="Music",Clubbing TV
+https://livetvhooq.akamaized.net/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1574859145~exp=9007200829600136~acl=/923e04bf28d6488e85831094a2cfc33d/*/profile_2/chunklist.m3u8*~hmac=f08709f141d2907969261ab7dc1b638b736757339dffbc26332eccee434e6654
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",Das Erste HD
+https://mcdn.daserste.de/daserste/de/master_3744.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",Deutsche Welle
+https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",Deutsche Welle (EN)
+https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.de" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="http://195.154.221.171/epg/guidegermany.xml.gz" group-title="",DISCOVERY DE
+http://stream-7b694ce7e.nmbs.top/m3u/Germany/76633d9420.m3u8
+#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="http://195.154.221.171/epg/guidegermany.xml.gz" group-title="",DISNEY CHANNEL DE
+http://stream-7b694ce7e.nmbs.top/m3u/Germany/d444899d3b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="INT" tvg-url="" group-title="",DJing
+https://www.djing.com/tv/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="INT" tvg-url="" group-title="",DJing Animation
+https://www.djing.com/tv/animation.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="INT" tvg-url="" group-title="",DJing Hedonist
+https://www.djing.com/tv/session_hedonist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="INT" tvg-url="" group-title="",DJing Ibiza
+https://www.djing.com/tv/dancefloor.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="INT" tvg-url="" group-title="",DJing Summer Vibes
+https://www.djing.com/tv/session_summer-vibes.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="INT" tvg-url="" group-title="",DJing Underground
+https://www.djing.com/tv/underground.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",dorf tv
+https://stream.openplayout.org/hls/dorf_high/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",Dresden Fernsehen
+https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="SK" tvg-url="" group-title="Kids",Duck TV
+http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Ducktv-logo.jpg/125px-Ducktv-logo.jpg" tvg-country="SK" tvg-url="" group-title="Kids",Duck TV
+http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DZ" tvg-url="" group-title="",Echorouk News
+http://80.241.212.158:25461/uss/axGFSC4zhv/5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DZ" tvg-url="" group-title="",Echorouk TV
+http://80.241.212.158:25461/uss/axGFSC4zhv/23
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",ERF 1
+http://14000-l.z.core.cdn.streamfarm.net/007erfiphonelive/smil:stream_live.smil/chunklist_w1563145417_b240000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",EWTN katholisches TV
+http://d3j0n5al39mfyd.cloudfront.net/p/GERG_1920x1080_4000k.m3u8
+#EXTINF:-1 tvg-id="FOXBusiness.us" tvg-name="FOXBusiness.us" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Fox_Business_Logo.svg/1280px-Fox_Business_Logo.svg.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="News",FOX Business
+https://1329918864.rsc.cdn77.org/xPdw4M5ZQn8H4H2sdDXokQ==,1586798443/ls-54548-1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="FR" tvg-url="" group-title="",France 24 English
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.offremedia.com/sites/default/files/delia/1086/108646-20d914.jpg" tvg-country="FR" tvg-url="" group-title="",GAME ONE
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1816
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",health.tv
+http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="History.de" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="http://195.154.221.171/epg/guidegermany.xml.gz" group-title="",HISTORY DE
+http://stream-7b694ce7e.nmbs.top/m3u/Germany/0764a81818.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="KZ" tvg-url="" group-title="",ID Fashion (KZ)
+https://sc.id-tv.kz/IDFashion_38_39.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",Isar TV
+https://isar-tv.iptv-playoutcenter.de/isar-tv/isar-tv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",K-TV
+http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",Kabel Eins HD
+http://test.ottg.tv:8080/9447/video.m3u8?username=Pavelsn&password=17181926&token=0d1a168c2971f5f9a8d76d28d4951d07&ch_id=585&req_host=pkjX3BL
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="http://195.154.221.171/epg/guidegermany.xml.gz" group-title="",KIKA TV
+http://stream-7b694ce7e.nmbs.top/m3u/Germany/9f23740066.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="AT" tvg-url="" group-title="Music",Kronehit HD
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",Leipzig Fernsehen
+https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",M4TV
+https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.mizzima.tv/wp-content/uploads/2018/03/mizzima_tv_logo_transparant.png" tvg-country="MM" tvg-url="" group-title="",Mizzima TV
+http://220.158.149.28:8180/TV00000000000000000170@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="NO" tvg-url="" group-title="",MTV HD
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",münchen.tv
+https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="n24.de" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="http://195.154.221.171/epg/guidegermany.xml.gz" group-title="",N24
+http://stream-7b694ce7e.nmbs.top/m3u/Germany/929e30dd0c.m3u8
+#EXTINF:-1 tvg-id="NatGeo.de" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="http://195.154.221.171/epg/guidegermany.xml.gz" group-title="",NAT GEO DE
+http://stream-7b694ce7e.nmbs.top/m3u/Germany/2158ccd2a8.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="http://195.154.221.171/epg/guidegermany.xml.gz" group-title="",NAT GEO PEOPLE DE
+http://stream-7b694ce7e.nmbs.top/m3u/Germany/ffb59554ab.m3u8
+#EXTINF:-1 tvg-id="NatGeoWild.de" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="http://195.154.221.171/epg/guidegermany.xml.gz" group-title="",NAT GEO WILD DE
+http://stream-7b694ce7e.nmbs.top/m3u/Germany/8f160f87ae.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",NDR Hamburg HD
+https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",NDR Schleswig-Holstein HD
+https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://news1live.com/images/social-share-logo.png" tvg-country="TH" tvg-url="" group-title="",News 1
+http://news1.live14.com/stream/news1_hi.m3u8
+#EXTINF:-1 tvg-id="ntv.at" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="http://195.154.221.171/epg/guidegermany.xml.gz" group-title="",NTV
+http://stream-7b694ce7e.nmbs.top/m3u/Germany/cc5b5ca4cc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",Oberpfalz TV
+https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",oe24 TV
+http://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",OK Koblenz
+http://stream-cdn.ok54.de/hls/ok4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",Okto
+https://d38d1dtxhym0zi.cloudfront.net/LiveHTTPOrigin/okto/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",pearl.tv
+http://enstyle.cdn.ses-ps.com/index.m3u8
+#EXTINF:-1 tvg-id="Pro7.de" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="http://195.154.221.171/epg/guidegermany.xml.gz" group-title="",PRO 7
+http://stream-7b694ce7e.nmbs.top/m3u/Germany/f263719ab8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",Pro7
+https://wer1.wertvlive.com/d1/video.m3u8
+#EXTINF:-1 tvg-id="prosieben-maxx.de" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="http://195.154.221.171/epg/guidegermany.xml.gz" group-title="",PRO7 MAXX
+http://stream-7b694ce7e.nmbs.top/m3u/Germany/9b61a52482.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",ProSieben
+https://hdtvler1.etvserver.com/live_sd/depro7/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjAgNjoyOTo1NiBQTSZoYXNoX3ZhbHVlPW1JZDJhZ2dYeTk4d1lPcXFrZmxCMXc9PSZ2YWxpZG1pbnV0ZXM9NQ==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",ProSieben HD
+http://test.ottg.tv:8080/6594/video.m3u8?username=Pavelsn&password=17181926&token=0d1a168c2971f5f9a8d76d28d4951d07&ch_id=581&req_host=pkjX3BL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",Rhein Neckar Fernsehen
+http://rnf.iptv-playoutcenter.de:1935/rnf/rnf.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",RiC / eoTV
+https://58b42f6c8c9bf.streamlock.net:8080/live/rictv/playlist.m3u8
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="http://195.154.221.171/epg/guidegermany.xml.gz" group-title="",RTL
+http://stream-7b694ce7e.nmbs.top/m3u/Germany/24ffa0d3a2.m3u8
+#EXTINF:-1 tvg-id="RTL2.de" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="http://195.154.221.171/epg/guidegermany.xml.gz" group-title="",RTL 2
+http://stream-7b694ce7e.nmbs.top/m3u/Germany/949cc0db89.m3u8
+#EXTINF:-1 tvg-id="RTLCrime.de" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="http://195.154.221.171/epg/guidegermany.xml.gz" group-title="",RTL CRIME
+http://stream-7b694ce7e.nmbs.top/m3u/Germany/b7aae55a06.m3u8
+#EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="http://195.154.221.171/epg/guidegermany.xml.gz" group-title="",RTL NITRO
+http://stream-7b694ce7e.nmbs.top/m3u/Germany/ddcb586f24.m3u8
+#EXTINF:-1 tvg-id="RTLPassion.de" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="http://195.154.221.171/epg/guidegermany.xml.gz" group-title="",RTL PASSION
+http://stream-7b694ce7e.nmbs.top/m3u/Germany/ab8c8f8912.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",RTL2
+https://hdtvler2.etvserver.com/live_sd/dertl2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjAgNzo1MDoxOCBQTSZoYXNoX3ZhbHVlPXlTN044dlp3dlJ0Y0RpUzFqTDNuNHc9PSZ2YWxpZG1pbnV0ZXM9NQ==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://127.0.0.1/" tvg-country="AL" tvg-url="" group-title="Sport",RTSH Sport
+http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="http://195.154.221.171/epg/guidegermany.xml.gz" group-title="",SAT 1
+http://stream-7b694ce7e.nmbs.top/m3u/Germany/b474683965.m3u8
+#EXTINF:-1 tvg-id="SkyAction.de" tvg-name="" tvg-language="" tvg-logo="http://195.154.221.171/picons/skycinemaactionhdde.png" tvg-country="DE" tvg-url="http://195.154.221.171/epg/guidegermany.xml.gz" group-title="",SKY ACTION
+http://stream-7b694ce7e.nmbs.top/m3u/Germany/c8a1817526.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-language="" tvg-logo="http://195.154.221.171/picons/skyatlantichdde.png" tvg-country="DE" tvg-url="http://195.154.221.171/epg/guidegermany.xml.gz" group-title="",SKY ATLATNIC
+http://stream-7b694ce7e.nmbs.top/m3u/Germany/9a35278d71.m3u8
+#EXTINF:-1 tvg-id="SkyCinema.de" tvg-name="" tvg-language="" tvg-logo="http://195.154.221.171/picons/skycinemahdde.png" tvg-country="DE" tvg-url="http://195.154.221.171/epg/guidegermany.xml.gz" group-title="",SKY CINEMA
+http://stream-7b694ce7e.nmbs.top/m3u/Germany/5cf6d8f21d.m3u8
+#EXTINF:-1 tvg-id="SkyCinema.de" tvg-name="" tvg-language="" tvg-logo="http://195.154.221.171/picons/skycinemaplus1hdde.png" tvg-country="DE" tvg-url="http://195.154.221.171/epg/guidegermany.xml.gz" group-title="",SKY CINEMA 1
+http://stream-7b694ce7e.nmbs.top/m3u/Germany/4e3082feb7.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaPlus24.de" tvg-name="" tvg-language="" tvg-logo="http://195.154.221.171/picons/skycinemaplus24hdde.png" tvg-country="DE" tvg-url="http://195.154.221.171/epg/guidegermany.xml.gz" group-title="",SKY CINEMA 24
+http://stream-7b694ce7e.nmbs.top/m3u/Germany/975227d664.m3u8
+#EXTINF:-1 tvg-id="SkyComedy.de" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="http://195.154.221.171/epg/guidegermany.xml.gz" group-title="",SKY COMEDY
+http://stream-7b694ce7e.nmbs.top/m3u/Germany/244f09369e.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaHits.de" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="http://195.154.221.171/epg/guidegermany.xml.gz" group-title="",SKY HITS
+http://stream-7b694ce7e.nmbs.top/m3u/Germany/6910bdd874.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="http://195.154.221.171/epg/guidegermany.xml.gz" group-title="",SKY SPORTS 3 DE
+http://stream-7b694ce7e.nmbs.top/m3u/Germany/11e65d81a9.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="http://195.154.221.171/epg/guidegermany.xml.gz" group-title="",SKY SPORTS 4 DE
+http://stream-7b694ce7e.nmbs.top/m3u/Germany/c46c38bd16.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="http://195.154.221.171/epg/guidegermany.xml.gz" group-title="",SKY SPORTS 5 DE
+http://stream-7b694ce7e.nmbs.top/m3u/Germany/eaf49c7926.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="http://195.154.221.171/epg/guidegermany.xml.gz" group-title="",SKY SPORTS AUSTRIA DE
+http://stream-7b694ce7e.nmbs.top/m3u/Germany/b441e56fa3.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-language="" tvg-logo="http://195.154.221.171/picons/skysportbundesliga1hdde.png" tvg-country="DE" tvg-url="http://195.154.221.171/epg/guidegermany.xml.gz" group-title="",SKY SPORTS BUNDESLIGA 1
+http://stream-7b694ce7e.nmbs.top/m3u/Germany/f247944fe3.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="http://195.154.221.171/epg/guidegermany.xml.gz" group-title="",SKY SPORTS BUNDESLIGA 2
+http://stream-7b694ce7e.nmbs.top/m3u/Germany/e5f6ce2f19.m3u8
+#EXTINF:-1 tvg-id="Smash TV-MLT" tvg-name="" tvg-language="" tvg-logo="https://static.iptv-epg.com/mt/SmashTV.mt.png" tvg-country="MT" tvg-url="http://epg.streamstv.me/epg/guide-malta.xml.gz" group-title="",Smash TV
+http://s3.smashmalta.com/hls/smash/smash.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",SR Fernsehen HD
+http://fs.live.sr.de/i/sr_universal02@107595/index_1662_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="YE" tvg-url="" group-title="",Suhail TV
+http://82.212.74.98:8000/live/hls/7726.m3u8
+#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="http://195.154.221.171/epg/guidegermany.xml.gz" group-title="",SUPER RTL
+http://stream-7b694ce7e.nmbs.top/m3u/Germany/78d140af59.m3u8
+#EXTINF:-1 tvg-id="SuperSport 1" tvg-name="" tvg-language="" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%201.png" tvg-country="AL" tvg-url="http://195.154.221.171/epg/guidealbania.xml.gz" group-title="",SuperSport 1
+http://84.22.33.210/ss1.ott/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="SuperSport 2" tvg-name="" tvg-language="" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%202.png" tvg-country="AL" tvg-url="http://195.154.221.171/epg/guidealbania.xml.gz" group-title="",SuperSport 2
+http://84.22.33.210/ss2.ott/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="SuperSport 3" tvg-name="" tvg-language="" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%203.png" tvg-country="AL" tvg-url="http://195.154.221.171/epg/guidealbania.xml.gz" group-title="",SuperSport 3
+http://84.22.33.210/ss3.ott/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="SuperSport 4" tvg-name="" tvg-language="" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%204.png" tvg-country="AL" tvg-url="http://195.154.221.171/epg/guidealbania.xml.gz" group-title="",SuperSport 4
+http://84.22.33.210/ss4.ott/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="SuperSport 5" tvg-name="" tvg-language="" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%205.png" tvg-country="AL" tvg-url="http://195.154.221.171/epg/guidealbania.xml.gz" group-title="",SuperSport 5
+http://84.22.33.210/ss5.ott/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="SuperSport 6" tvg-name="" tvg-language="" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%206.png" tvg-country="AL" tvg-url="http://195.154.221.171/epg/guidealbania.xml.gz" group-title="",SuperSport 6
+http://84.22.33.210/ss6.ott/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="SuperSport 7" tvg-name="" tvg-language="" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%207.png" tvg-country="AL" tvg-url="http://195.154.221.171/epg/guidealbania.xml.gz" group-title="",SuperSport 7
+http://84.22.33.210/ss7.ott/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",tagesschau24
+https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",Tele M1 HD
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index-s32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",TeleBielingue
+http://livevideo.infomaniak.com/streaming/livecast/telebielinguech/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",TeleBärn HD
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGwenpKUhx_fbVnsiu9MQ/index-s32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",TeleZüri HD
+https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/0_josiatxf/format/applehttp/protocol/https/a.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" tvg-country="TH" tvg-url="" group-title="",Thai TV 7
+https://bcovlive-a.akamaihd.net/44cc55c80fef46a8baa3a405433e63b8/ap-southeast-1/5282994675001/profile_4/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",Tirol TV
+http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8
+#EXTINF:-1 tvg-id="TNTFilm.de" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="http://195.154.221.171/epg/guidegermany.xml.gz" group-title="",TNT FILM
+http://stream-7b694ce7e.nmbs.top/m3u/Germany/10c80bfd6e.m3u8
+#EXTINF:-1 tvg-id="TNTSeries.cl" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="http://195.154.221.171/epg/guidegermany.xml.gz" group-title="",TNT SERIES
+http://stream-7b694ce7e.nmbs.top/m3u/Germany/1a544eec4f.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",TV Würzburg
+https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="KG" tvg-url="" group-title="",TV1 KG
+http://212.2.225.30:1935/live/site.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",TVA
+https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",TVO
+https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="Vox.de" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="http://195.154.221.171/epg/guidegermany.xml.gz" group-title="",VOX DE
+http://stream-7b694ce7e.nmbs.top/m3u/Germany/1d62364d5b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="SV" tvg-url="" group-title="Kids",WOW!TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="SV" tvg-url="" group-title="Kids",WOW!TV HD
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92700/14042785.jpg" tvg-country="JP" tvg-url="" group-title="Movies",Wowow Cinema
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="http://195.154.221.171/epg/guidegermany.xml.gz" group-title="",ZDF TV
+http://stream-7b694ce7e.nmbs.top/m3u/Germany/05bcd8c334.m3u8
+#EXTINF:-1 tvg-id="ZeeOne.de" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="http://195.154.221.171/epg/guidegermany.xml.gz" group-title="",ZEE ONE
+http://stream-7b694ce7e.nmbs.top/m3u/Germany/a4bd4f8154.m3u8
